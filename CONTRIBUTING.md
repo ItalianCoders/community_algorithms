@@ -11,5 +11,5 @@ Il tuo aiuto è essenziale per mantenerlo alla grande.<br>
 1. Aggiungi le tue modifiche tramite il comando: `git add .`
 1. Effettua il commit delle modifiche: `git commit -m 'dev: Aggiunta algoritmo'`
 1. Effettua il push tramite comando: `git push origin my-new-feature`
-1. Invia una [PR](https://github.com/ItalianCoders/community_agorithms/compare)
+1. Invia una PR tramite in pulsante "Compare & pull request" che troverai nel tuo repository
 1. Datti una pacca sulla spalla e attendi che la tua richiesta pull venga esaminata e unita. :smile:
