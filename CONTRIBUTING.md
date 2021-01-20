@@ -4,7 +4,7 @@ Il tuo aiuto è essenziale per mantenerlo alla grande.<br>
 
 ## Invio di una richiesta pull
 
-1. Effettua il [fork](https://github.com/ItalianCoders/community_agorithms/fork) del progetto
+1. Effettua il [fork](https://github.com/ItalianCoders/community_algorithms/fork) del progetto
 1. Clona il nuovo repository creato nel tuo utente
 1. Crea il tuo branch per le nuove funzionalità: `git checkout -b my-new-feature`
 1. Apporta le tue modifice, aggiungi i file che desideri
