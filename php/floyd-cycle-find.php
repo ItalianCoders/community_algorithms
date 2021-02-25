@@ -29,4 +29,6 @@ function floyd_cycle_find(array $sequence): bool
             $hare -= $length-1;
         }
     }
+    
+    return false;
 }
